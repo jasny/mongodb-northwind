@@ -1,0 +1,7 @@
+"_id","status_name"
+"0","None"
+"1","Allocated"
+"2","Invoiced"
+"3","Shipped"
+"4","On Order"
+"5","No Stock"
